@@ -1,0 +1,14 @@
+<%@page import="org.JTI.Member"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+	Member member = (Member)session.getAttribute("loginMember");
+
+	if(member == null) {
+%>
+		<jsp:forward page = "/" >
+			<jsp:param value="wrongRequest" name="cmd"/>
+		</jsp:forward>
+<%
+	}
+%>
