@@ -7,7 +7,8 @@ jsp에서 배운 내용을 응용해서 만들어보았습니다. 기초 단계�
 
 ## loginModel2_applicatoin
 - css / javascript/ java / jsp <br>
-- spring의 구조를 이해하기 위해 javascript / css / jsp / java를 나누어 보았습니다. loginModel1_application이와는 다르게 확실히 자기자신의 역할을 하고 있고 구조적으로 눈에 더 잘 보입니다. 직접 만들어보니 왜 각각 분리해서 만들어야 되는지 깨달았습니다.
+- spring의 구조를 이해하기 위해 javascript / css / jsp / java를 나누어 보았습니다. (redirect는 따로 따로 있음)
+- loginModel1_application이와는 다르게 확실히 자기자신의 역할을 하고 있고 구조적으로 눈에 더 잘 보입니다. 직접 만들어보니 왜 각각 분리해서 만들어야 되는지 깨달았습니다.
 
 ## loginModel3_application
 - css / javascript / java / jsp <br>
