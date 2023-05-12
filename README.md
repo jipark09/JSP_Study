@@ -3,7 +3,7 @@ jsp에서 배운 내용을 응용해서 만들어보았다. 기초 단계에서 
 
 ## loginModel_application
 - css / java / jsp <br>
-- 구조적으로 나뉘어져 있지 않고 javascript(script 요소) / jsp가 하나로 합쳐져 있습니다. 나중에 구조적으로 떼어놓았을때와 차이점을 느끼기 위해 나누지않고 하나의 페이지에서 돌아가게끔 만들어 놓았다.
+- 구조적으로 나뉘어져 있지 않고 javascript(script 요소) / jsp가 하나로 합쳐져 있다. 나중에 구조적으로 떼어놓았을때와 차이점을 느끼기 위해 나누지않고 하나의 페이지에서 돌아가게끔 만들어 놓았다.
 
 ## loginModel2_applicatoin
 - css / javascript/ java / jsp <br>
