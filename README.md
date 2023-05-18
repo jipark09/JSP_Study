@@ -18,5 +18,7 @@ jsp에서 배운 내용을 응용해서 만들어보았다. 기초 단계에서 
 
 ## BookServletEx
 - 서블릿의 동작을 알아보기 위해 만든 예제
-- kr.ac.jipark09: 
-- kr.ac.jipark09.cmds: 
+- kr.ac.jipark09: BookDTO, BookDAO, MainServlet, ViewResolver
+- kr.ac.jipark09.cmds: 처리하는 연산들을 캡슐화 시킴 ➡️ command객체
+- 일반화 시키기 위해 ICmd 인터페이스를 만들어서 action메서드를 구현시키게 만든다.
+- handlerMapping과 비슷하게 cmdFactory 클래스 생성 ➡️ 비즈니스로직과 메인서블릿과의 의존성을 소거하기 위해 만듬
