@@ -15,3 +15,8 @@ jsp에서 배운 내용을 응용해서 만들어보았다. 기초 단계에서 
 - css / javascript / java / jsp <br>
 - main.jsp: HandlerMapping 역할
 - loginModel2와 다르게 redirect를 여기저기 사용하지 않고 한 jsp페이지(main.jsp) 안에다 포함시켰다.
+
+## BookServletEx
+- 서블릿의 동작을 알아보기 위해 만든 예제
+- kr.ac.jipark09: 
+- kr.ac.jipark09.cmds: 
